@@ -1,0 +1,6 @@
+password
+secret
+token
+api_key
+cookie
+eyJ
