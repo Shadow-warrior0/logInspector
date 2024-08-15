@@ -57,10 +57,9 @@ loginspector uses a custom wordlist file that you provide. This wordlist should 
     secret
     token
     api_key
-    password
-    secret
-    token
-    api_key
+    jwt
+    eyJ
+    cookie
 
 
 **Banner Message**
